@@ -76,6 +76,7 @@ OBJS = \
         ../../noahmp/src/MatrixSolverTriDiagonalMod.o \
         ../../noahmp/src/RunoffSubSurfaceDrainageMod.o \
         ../../noahmp/src/RunoffSubSurfaceEquiWaterTableMod.o \
+        ../../noahmp/src/RunoffSubSurfacePeatlandMod.o \
         ../../noahmp/src/RunoffSubSurfaceGroundWaterMod.o \
         ../../noahmp/src/RunoffSubSurfaceShallowMmfMod.o \
         ../../noahmp/src/RunoffSurfaceBatsMod.o \
@@ -93,7 +94,6 @@ OBJS = \
         ../../noahmp/src/SnowLayerDivideMod.o \
         ../../noahmp/src/SnowLayerWaterComboMod.o \
         ../../noahmp/src/SnowpackCompactionMod.o \
-        ../../noahmp/src/SnowpackCompactionAR24Mod.o \
         ../../noahmp/src/SnowpackHydrologyMod.o \
         ../../noahmp/src/SnowWaterMainMod.o \
         ../../noahmp/src/SoilHydraulicPropertyMod.o \
