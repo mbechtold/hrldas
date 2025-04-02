@@ -77,6 +77,8 @@ OBJS = \
         ../../noahmp/src/RunoffSubSurfaceDrainageMod.o \
         ../../noahmp/src/RunoffSubSurfaceEquiWaterTableMod.o \
         ../../noahmp/src/RunoffSubSurfacePeatlandMod.o \
+        ../../noahmp/src/MicroTopoCorrectionMod.o \
+	../../noahmp/src/SnowpackCompactionAR24Mod.o \
         ../../noahmp/src/RunoffSubSurfaceGroundWaterMod.o \
         ../../noahmp/src/RunoffSubSurfaceShallowMmfMod.o \
         ../../noahmp/src/RunoffSurfaceBatsMod.o \
